@@ -1,4 +1,4 @@
-# 22 State Homework: Redux Store
+# State: Redux Store
 
 ## Description
 
